@@ -40,6 +40,8 @@ You can read more about other primer modules in the [full primer docs][docs].
 <!-- %docs
 title: Layout
 homepage: https://github.com/primer/layout
+status: In review
+status_issue: https://github.com/github/design-systems/issues/59
 -->
 
 ### Layout
@@ -52,7 +54,7 @@ You can find all the below styles in `_layout.scss`.
 
 Center your page's contents with a `.container`.
 
-```html
+```html+erb
 <div class="container">
   <!-- contents here -->
 </div>
