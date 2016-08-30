@@ -40,7 +40,7 @@ You can read more about other primer modules in the [full primer docs][docs].
 <!-- %docs
 title: Layout
 homepage: https://github.com/primer/layout
-status: In review
+status: Deprecated
 status_issue: https://github.com/github/design-systems/issues/59
 -->
 
