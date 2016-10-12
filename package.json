@@ -11,9 +11,9 @@
     "lib",
     "build"
   ],
-  "repository": "https://github.com/primer/layout.git",
+  "repository": "https://github.com/primer/primer-layout.git",
   "bugs": {
-    "url": "https://github.com/primer/layout/issues"
+    "url": "https://github.com/primer/primer-layout/issues"
   },
   "scripts": {
     "setup": "if [ ! -d \"node_modules\" ]; then npm install; fi",
